@@ -1,0 +1,18 @@
+PODS:
+  - ActiveLabel (0.5.1)
+  - Backendless (3.0.27)
+  - KFSwiftImageLoader (2.0.1)
+
+DEPENDENCIES:
+  - ActiveLabel
+  - Backendless
+  - KFSwiftImageLoader (~> 2.0)
+
+SPEC CHECKSUMS:
+  ActiveLabel: 2360173515b6afabad23610824c222cc626d2166
+  Backendless: 565a82d9aa6ec01257e904e0a5c0146ffdb503ed
+  KFSwiftImageLoader: a2b8a33a89116c767e7af8d2c109e8c483037b19
+
+PODFILE CHECKSUM: 27d9b308744ca0c98584809593901b6e2bed0fb3
+
+COCOAPODS: 1.0.1
